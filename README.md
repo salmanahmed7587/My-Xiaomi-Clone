@@ -1,3 +1,8 @@
+## 🌐 Live Demo
+Check out the live version here:  
+👉 [My Xiaomi Clone Website](https://salmanahmed7587.github.io/My-Xiaomi-Clone/)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
